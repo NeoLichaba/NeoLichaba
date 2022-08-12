@@ -1,16 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Neo Lichaba 💥 🙌 ♉
-===================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Neo Lichaba 💥 🙌 ♉
 
-Student | Full Stack Web Developer | Marketer
-----------------------------------
+## Student | Full Stack Web Developer | Marketer
 
 I have been learning to code for the close to a year (and counting) after switching careers and there truly has never been a dull moment...ever...ever...
 
-* 🌍  I'm based in The City of Gold, Johannesburg, ZA
-* ✉️  You can contact me on [neolicham@gmail.com](mailto:neolicham@gmail.com)
-* 🧠  I'm learning Java Advanced and continue to hone my skills as a Full Stack Web Developer. Check my tech stack
-* 🤔  I’m looking for a mentor within the space and fellow newbies...broad, I know.
-* 😄  Pronouns: She/Her/I
+- 🌍  I'm based in The City of Gold, Johannesburg, ZA
+- ✉️  You can contact me on [neolicham@gmail.com](mailto:neolicham@gmail.com)
+- 🧠  I'm learning Java Advanced and continue to hone my skills as a Full Stack Web Developer. Check my tech stack
+- 🤔 I’m looking for a mentor within the space and fellow newbies...broad, I know.
+- 😄 Pronouns: She/Her/I
 
 ### My Tech Stack
 
@@ -19,9 +17,7 @@ I have been learning to code for the close to a year (and counting) after switch
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/98019180/184450819-52a00720-ca7f-4338-a03c-496fecc42b2d.png" width="36" height="36" alt="JavaScript" /></a>
 </p>
 
-
 ### Socials
-
 
 ### Badges
 

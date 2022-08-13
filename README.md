@@ -1,3 +1,4 @@
+![html-5](https://user-images.githubusercontent.com/98019180/184477348-b3a66781-8896-4946-a296-25630bbffd07.png)
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Neo Lichaba 💥 🙌 ♉
 
 ## Student | Full Stack Web Developer | Marketer
@@ -15,6 +16,8 @@ I have been learning to code for the close to a year (and counting) after switch
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src = "https://user-images.githubusercontent.com/98019180/184450660-16bcb4a8-9b8b-4612-91d7-50f859503280.png" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/98019180/184450819-52a00720-ca7f-4338-a03c-496fecc42b2d.png" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/98019180/184477403-570fa8b9-ae2f-463b-b521-b13729934967.png" width="36" height="36" alt="HTML5" /></a>
+
 </p>
 
 ### Socials

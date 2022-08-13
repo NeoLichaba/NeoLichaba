@@ -1,15 +1,15 @@
  
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Neo Lichaba 💥 🙌 ♉
+# Hi! I am Neo Lichaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 💥 🙌 ♉
 
 ## Student | Full Stack Web Developer | Marketer
 
-I have been learning to code for the close to a year (and counting) after switching careers and there truly has never been a dull moment...ever...ever...
+I have been learning to code for close to a year (and counting) after switching careers and there truly has never been a dull moment...ever...ever...
 
 - 🌍  I'm based in The City of Gold, Johannesburg, ZA
 - ✉️  You can contact me on [neolicham@gmail.com](mailto:neolicham@gmail.com)
 - 🧠  I'm learning Java Advanced and continue to hone my skills as a Full Stack Web Developer. Check my tech stack
-- 🤔 I’m looking for a mentor within the space and fellow newbies...broad, I know.
-- 😄 Pronouns: She/Her/I
+- 🤔  I’m looking for a mentor within the space and fellow newbies...broad, I know.
+- 😄  Pronouns: She/Her/I
 
 ### My Tech Stack
 
@@ -31,6 +31,10 @@ I have been learning to code for the close to a year (and counting) after switch
 </p>
 
 ### Socials
+<p align="left"> 
+<a href="https://discord.com/users/Neol" target="_blank" rel="noreferrer"><img src="https://github.com/NeoLichaba/NeoLichaba/blob/main/discord--v2.png" width="32" height="32" /></a> 
+<a href="https://www.github.com/NeoLichaba" target="_blank" rel="noreferrer"><img src="https://github.com/NeoLichaba/NeoLichaba/blob/main/github.png" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/neo-lichaba-21601b3b/" target="_blank" rel="noreferrer"><img src="https://github.com/NeoLichaba/NeoLichaba/blob/main/linkedin.png" width="32" height="32" /></a></p>
 
 ### Badges
 

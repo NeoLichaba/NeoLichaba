@@ -38,6 +38,11 @@ I have been learning to code for close to a year (and counting) after switching 
 
 ### Badges
 
+<p align="left">
+<a href="https://mylearn.oracle.com/home/" target="_blank" rel="noreferrer"><img src="https://github.com/NeoLichaba/NeoLichaba/blob/main/OracleBadge.png" width="100" height="80" alt="OracleBadge" /></a>
+
+
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/NeoLichaba"><img src="https://github-readme-stats.vercel.app/api?username=NeoLichaba&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="NeoLichaba's GitHub stats" /></a>

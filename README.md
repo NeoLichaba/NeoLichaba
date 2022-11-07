@@ -1,7 +1,7 @@
  
 # Hi! I am Neo Lichaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 💥 🙌 ♉
 
-## Student | Full Stack Web Developer | Marketer
+## Student | Full Stack Web Developer | Digital Marketer
 
 I have been learning to code for close to a year (and counting) after switching careers and there truly has never been a dull moment...ever...ever...
 

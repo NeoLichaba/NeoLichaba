@@ -3,7 +3,7 @@
 
 ## Full Stack Web Developer | Marketing Specialist
 
-I have been learning to code for close to a year (and counting) after switching careers and there truly has never been a dull moment...ever...ever...
+I got bitten by the coding bug and there truly has never been a dull moment...ever...ever...
 
 - 🌍  I'm based in The City of Gold, Johannesburg, ZA
 - ✉️  You can contact me on [neolicham@gmail.com](mailto:neolicham@gmail.com)

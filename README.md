@@ -7,8 +7,8 @@ I got bitten by the coding bug and there truly has never been a dull moment...ev
 
 - 🌍  I'm based in The City of Gold, Johannesburg, ZA
 - ✉️  You can contact me on [neolicham@gmail.com](mailto:neolicham@gmail.com)
-- 🧠  I'm learning Java Advanced and continue to hone my skills as a Full Stack Web Developer. Check my tech stack
-- 🤔  I’m looking for a mentor within the space and fellow newbies...broad, I know.
+- 🧠  I'm learning Product Management principles and continue to hone my skills, incorporating my experience as a growing Full Stack Web Developer. 
+- 🤔  I’m looking for a mentor within the tech space and fellow newbies...broad, I know.
 - 😄  Pronouns: She/Her/I
 
 ### My Tech Stack
